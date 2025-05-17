@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marta. I'm a web Development student and cyber security freak 👩🏻‍💻 from Spain</h2>
+<h2 align="left">Hi! I'm Marta — Spain-born dev 🧠 powered by riffs 🎸, caffeine ☕, and ethical exploits.</h2>
 
 ###
 
